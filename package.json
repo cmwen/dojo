@@ -1,0 +1,8 @@
+{
+  "name": "dojo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cmwen/dojo.git",
+  "author": "cmwen <chungmin.wen@gmail.com>",
+  "license": "MIT"
+}
