@@ -6,7 +6,8 @@
     "author": "cmwen <chungmin.wen@gmail.com>",
     "license": "MIT",
     "scripts": {
-        "test": "jest --watch"
+        "test": "jest",
+        "dev:test": "jest --watch"
     },
     "devDependencies": {
         "jest": "^20.0.0"
