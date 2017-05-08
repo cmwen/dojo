@@ -1,0 +1,6 @@
+langulage: node_js
+node_js:
+  - "node"
+script:
+  - yarn run test
+
